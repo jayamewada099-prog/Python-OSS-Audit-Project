@@ -10,6 +10,9 @@ This project is an in-depth audit of **Python**, an open-source programming lang
 3. **Audit Target**: Python 3.x
 
 ## Student Info
-* **Name**: [Apna Naam Likhein]
-* **Reg No**: [Apna Registration Number]
-* **Deadline**: March 31, 2026
+* **Name**: [Jaya Mewada]
+* **Reg No**: [24BCE11442]
+
+ ## How to Run Scripts
+1. Give execution permission: chmod +x scripts/*.sh
+2. Run any script: ./scripts/filename.sh
